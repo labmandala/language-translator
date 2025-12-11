@@ -2,3 +2,5 @@
 
 <p>Language translator built using CSV and GUI modules, using a spreadsheet of common words in English and translates the words into Spanish and French.
 </p>
+
+<img src="language-translator-mockup.jpg" />
